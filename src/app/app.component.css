@@ -1,0 +1,14 @@
+* {
+    font-family: Lato;
+}
+
+.custom-dropzone {
+    height: 250px;
+    color: rgb(80, 70, 70);
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.custom-dropzone.ngx-dz-hovered {
+    border: 5px solid rgb(235, 79, 79);
+}
